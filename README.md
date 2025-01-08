@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**alanVelazquez14/alanVelazquez14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 **About Me**
+👋 **Hi! I'm Alan Velazquez**  
+💻 **Full Stack Developer | UX/UI Design Student**  
+🚀 Passionate about building projects that combine logic and design to solve real-world problems.  
+⚙️ **Technologies**: JavaScript, React, Node.js, MongoDB, HTML, CSS, TypeScript  
+🎯 Currently working on projects that integrate frontend and backend with a focus on user experience.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Tech Stack**
+
+**Frontend**  
+- HTML, CSS, JavaScript  
+- React, TypeScript  
+- Styled-Components, TailwindCSS  
+
+**Backend**  
+- Node.js, Express  
+- MongoDB  
+
+**Tools & Platforms**  
+- Git, GitHub  
+- Vercel, Netlify  
+- Postman  
+
+**Currently Learning**  
+- Next.js  
+- Advanced UX/UI Design  
+
+### 🤝 **Connect with Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alanvelazquez14)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velazquez.alan14@gmail.com)  
