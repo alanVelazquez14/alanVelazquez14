@@ -1,6 +1,7 @@
 Hi there 👋
 
 👨🏻‍💻 **About Me**
+
 👋 **Hi! I'm Alan Velazquez**  
 💻 **Full Stack Developer | UX/UI Design Student**  
 🚀 Passionate about building projects that combine logic and design to solve real-world problems.  
