@@ -31,9 +31,12 @@ Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanvelazquez14/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velazquez.alan14@gmail.com)  
 
-
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanVelazquez14&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### 🌱 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanVelazquez14&langs_count=10&theme=radical)
 
 
